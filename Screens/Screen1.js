@@ -175,6 +175,8 @@ function Screen1(props) {
       <Text style={styles.title1}>{greetings}</Text>
       <Text style= {styles.title2}>Mario</Text>
       <Text>Il pazzo</Text>
+      <Text>nuovo test</Text>
+
 
       <Spacer size={2} />
 
